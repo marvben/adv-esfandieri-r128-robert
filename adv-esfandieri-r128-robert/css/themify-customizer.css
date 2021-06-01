@@ -1,0 +1,11 @@
+/* Themify Customize Styling */
+#headerwrap {	background: none;
+	background-color: #3b5998; 
+}
+#header a {	
+	color: #e6e6e6; 
+}
+body[class*="themify"] #site-logo a {	
+	font-family:Limelight;	font-weight:normal;
+ 
+}
